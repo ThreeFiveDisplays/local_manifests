@@ -4,6 +4,7 @@
   <remote name="omnirom" fetch="https://github.com/omnirom" />
   <remote name="cm" fetch="https://github.com/CyanogenMod" />
   <remote name="opengapps" fetch="https://github.com/opengapps/"  />
+  <remote name="threefivedisplays" fetch="https://github.com/ThreeFiveDisplays/"  />
 
   <remove-project name="platform/build" />
   <remove-project name="platform/external/minijail" />
