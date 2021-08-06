@@ -48,7 +48,7 @@
   <project path="system/sepolicy" name="system-sepolicy" remote="ayufan" revision="nougat-7.1" groups="pdk" />
   
   <!-- Google App Support --> 
-  <project path="vendor/opengapps/atv-build" name="opengapps_atv_build" revision="nougat" remote="ayufan" />
+  <project path="vendor/opengapps/atv-build" name="opengapps_atv_build" revision="nougat" remote="threefivedisplays" />
   <project path="vendor/opengapps/build" name="aosp_build" revision="master" remote="opengapps" />
   <project path="vendor/opengapps/sources/all" name="all" clone-depth="1" revision="master" remote="opengapps-gitlab" />
   <!-- arm64 depends on arm -->
